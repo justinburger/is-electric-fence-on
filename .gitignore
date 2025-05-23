@@ -2,9 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+kasa_config.json
+kasa_monitor.log
 # C extensions
 *.so
+.idea
+.idea/*
 
 # Distribution / packaging
 .Python
